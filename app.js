@@ -20,7 +20,7 @@ pdvsJson.map((pdv) => {
     if(pdv.descripion === 'Padaria') {
       pdvsclone.querySelector('.card').style.background = '#D83006';
     }
-    if(pdv.descripion === 'RESERVA') {
+    if(pdv.descripion === 'Reserva') {
       pdvsclone.querySelector('.card').style.background = '#D83006';
     }
  
