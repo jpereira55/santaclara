@@ -11,7 +11,6 @@ pdvsJson.map((pdv) => {
     pdvsclone.querySelector('.card p').innerHTML = pdv.descripion;
 
 
-    }
     if(pdv.descripion === 'Preferencial') {
       pdvsclone.querySelector('.card').style.background = '#8B0000';
     }
