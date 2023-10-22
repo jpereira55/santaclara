@@ -91,7 +91,7 @@ let pdvsJson = [
     },
     {
         name: 'PDV 16',
-        descripion:'Frente de Loja',
+        descripion:'Reserva',
         img: 'imagens/1.jpg',
         link: 'http://192.168.60.190:9898/normal.html'
     },
