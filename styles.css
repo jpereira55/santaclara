@@ -22,7 +22,7 @@ header {
 main {
     padding: 2rem 0;
     margin: 0 auto;
-    width: 70%;
+    width: 98%;
     display: flex;
     flex-direction: column;
 }
@@ -62,7 +62,7 @@ main {
 }
 
 .pdv-area {
-    width: 100%;
+    width: 70%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
