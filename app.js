@@ -14,7 +14,7 @@ pdvsJson.map((pdv) => {
     if(pdv.descripion === 'Preferencial') {
       pdvsclone.querySelector('.card').style.background = '#8B0000';
     }
-    if(pdv.descripion === 'Super Drive') {
+    if(pdv.descripion === 'Boteco') {
       pdvsclone.querySelector('.card').style.background = '#004b23';
     }
     if(pdv.descripion === 'Padaria') {
