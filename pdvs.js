@@ -89,12 +89,6 @@
         img: 'imagens/1.png',
         link: 'http://172.23.87.115:9898/normal.html'
     },
-    {
-        name: 'PDV 16',
-        descripion:'Boteco',
-        img: 'imagens/1.png',
-        link: 'http://172.23.87.116:9898/normal.html'
-    },
     
     
     
