@@ -45,7 +45,7 @@ main {
     transform: scale(1);
 }
 .card img{
-    width: 100px;
+    width: 150px;
     object-fit: cover;
 }
 .card h2 {
