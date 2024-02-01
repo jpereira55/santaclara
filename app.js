@@ -21,7 +21,7 @@ pdvsJson.map((pdv) => {
       pdvsclone.querySelector('.card').style.background = '#D83006';
     }
     if(pdv.descripion === 'Reserva') {
-      pdvsclone.querySelector('.card').style.background = '#D83006';
+      pdvsclone.querySelector('.card').style.background = '#FFD700';
     }
  
 });
