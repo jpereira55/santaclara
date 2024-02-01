@@ -41,8 +41,8 @@ main {
     transition: ease-in-out 0.5s;
 }
 .card:hover {
-    filter: brightness(1);
-    transform: scale(1);
+    filter: brightness(1.04);
+    transform: scale(1.02);
 }
 .card img{
     width: 150px;
@@ -52,7 +52,7 @@ main {
     margin-top: 5px;
     text-align: center;
     text-transform: uppercase;
-    font-weight: 150;
+    font-weight: 100;
 }
 .card p {
     margin-top: 5px;
