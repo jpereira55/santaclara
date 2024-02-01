@@ -22,7 +22,7 @@ header {
 main {
     padding: 2rem 0;
     margin: 0 auto;
-    width: 98%;
+    width: 60%;
     display: flex;
     flex-direction: column;
 }
