@@ -68,7 +68,7 @@ main {
     justify-content: center;
 }
 
-@media (max-width: 200px) {
+@media (max-width: 125px) {
     header h1{
         font-size: 25px;
     }
