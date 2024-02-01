@@ -37,7 +37,7 @@ main {
     background-color: #2F4858;
 
     display: inline-block;
-    border-radius: 8px;
+    border-radius: 4px;
     transition: ease-in-out 0.5s;
 }
 .card:hover {
@@ -72,6 +72,6 @@ main {
     
     .centered header h1{
         width:50%;
-        font-size: 25px;
+        font-size: 15px;
     }
 }
